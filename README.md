@@ -1,1 +1,1 @@
-https://zedwag.github.io/rsscholl-cv/cv
+https://zedwag.github.io/rsschool-cv/cv
