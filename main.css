@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Droid Sans Avant Garde', sans-serif;
+    font-size: 36px;
+}
+
+header {
+    padding-top: 30px;
+    text-align: center;
+    background: #222222;
+    color: white;
+    width: 100%;
+    height: 200px;
+}
+
+header h1 {
+    font-size: 60px;
+    font-weight: 700;
+    display: inline;
+}
+
+header img {
+    height: 120px;
+    border-radius: 50%;
+    border: 2px solid;
+}
+
+.section {
+    padding: 30px 50px 10px 50px;
+}
+
+.section-dark {
+    background: #c8c8c8;
+}
+
+.title {
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style: none;
+}
+
+.inline-li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.skills-list-element {
+    font-size: 40px;
+}
+
+.skills-list-element-score {
+    font-size: 70px;
+}
